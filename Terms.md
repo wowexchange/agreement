@@ -1,4 +1,4 @@
-# Privacy Notice - WOW
+# WOW TERMS OF USE
 
 Last Updated: 10 November 2023
 
