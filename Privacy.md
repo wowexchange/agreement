@@ -8,7 +8,7 @@ Last updated: 26 September 2023
 
 WOW (“WOW”, “we”, or “us”) is committed to protecting the privacy of our customers, and we take our data protection responsibilities with the utmost seriousness.
 
-This Privacy Notice describes how WOW collects and processes your personal data through the WOW websites and applications that are referenced in this Privacy Notice. WOW refers to an ecosystem comprising WOW websites (whose domain names include but are not limited to  [<font color="ff0000">www.wowexchange.org</font>](http://www.wowexchange.org/)), mobile applications, clients, applets and other applications that are developed to offer WOW Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g., WOW’s Open Platform, WOW Launchpad, WOW Labs, WOW Charity, WOW DEX, WOW X, JEX, and fiat gateways).
+This Privacy Notice describes how WOW collects and processes your personal data through the WOW websites and applications that are referenced in this Privacy Notice. WOW refers to an ecosystem comprising WOW websites (whose domain names include but are not limited to  [<font color="ff0000">www.wowexchange.org</font>](https://www.wowexchange.org/)), mobile applications, clients, applets and other applications that are developed to offer WOW Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g., WOW’s Open Platform, WOW Launchpad, WOW Labs, WOW Charity, WOW DEX, WOW X, JEX, and fiat gateways).
 
 This Privacy Notice applies to all Personal data processing activities carried out by us, across platforms, websites, and departments of WOW.
 
